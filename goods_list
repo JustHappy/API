@@ -31,7 +31,7 @@
     },
     {
       "goodsId": 4,
-      "imageUrl": "http://gips3.baidu.com/it/u=3886271102,3123389489&fm=3028&app=3028&f=JPEG&fmt=auto?w=1280&h=960",
+      "imageUrl": "https://gips3.baidu.com/it/u=3886271102,3123389489&fm=3028&app=3028&f=JPEG&fmt=auto?w=1280&h=960",
       "spanSize": 2
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "goodsId": 6,
-      "imageUrl": "http://gips1.baidu.com/it/u=3874647369,3220417986&fm=3028&app=3028&f=JPEG&fmt=auto?w=720&h=1280",
+      "imageUrl": "https://gips1.baidu.com/it/u=3874647369,3220417986&fm=3028&app=3028&f=JPEG&fmt=auto?w=720&h=1280",
       "spanSize": 2
     },
     {
       "goodsId": 7,
-      "imageUrl": "http://gips0.baidu.com/it/u=3560029307,576412274&fm=3028&app=3028&f=JPEG&fmt=auto?w=960&h=1280",
+      "imageUrl": "https://gips0.baidu.com/it/u=3560029307,576412274&fm=3028&app=3028&f=JPEG&fmt=auto?w=960&h=1280",
       "spanSize": 2
     },
     {
