@@ -6,32 +6,32 @@
       "goodsId": 0,
       "spanSize": 4,
       "banners": [
-        "https://i8.mifile.cn/v1/a1/251f0880-423e-fa2d-3c18-1d3ec23f9912.webp",
-        "https://i8.mifile.cn/v1/a1/49dfd019-9504-abb5-34bb-26f425b67e45.webp",
+        "https://img.88tph.com/tphc.1/44/0f/RA_xAwuCEemMSQARMiynhQ.jpg",
+        "https://img2.baidu.com/it/u=3405170090,1353124916&fm=253&fmt=auto&app=138&f=JPEG?w=1129&h=500",
         "https://cdn.cnbj0.fds.api.mi-img.com/b2c-mimall-media/b9540da01aef9a00a5c640b1c98b955a.jpg"
       ]
     },
     {
       "goodsId": 1,
       "text": "明星单品",
-      "imageUrl": "https://i8.mifile.cn/v1/a1/1d338200-1be1-f868-9695-9d5ae0d6c2c6.webp",
+      "imageUrl": "https://ww3.sinaimg.cn/mw690/6080ee84ly1hhi2j5rimaj21qj3344qq.jpg",
       "spanSize": 4
     },
     {
       "goodsId": 2,
       "text": "小米5c 64GB 移动版",
-      "imageUrl": "https://i8.mifile.cn/v1/a1/04629084-7810-d1fb-6f4a-a0c52433ca29.webp?width=360&height=360",
+      "imageUrl": "https://2a.zol-img.com.cn/product/181_800x600/196/ce6lmr77kN11M.jpg",
       "spanSize": 2
     },
     {
       "goodsId": 3,
       "text": "米家智能摄像机",
-      "imageUrl": "https://i8.mifile.cn/v1/a1/375bd3a4-aab9-f77b-f6a1-5dbf01087495.webp?width=360&height=360",
+      "imageUrl": "https://img5.pcpop.com/ArticleImages/730x547/4/4183/00418315482265150.jpg",
       "spanSize": 2
     },
     {
       "goodsId": 4,
-      "imageUrl": "https://i8.mifile.cn/v1/a1/656a5863-6af1-6302-4e36-a33bd49e45cb.webp?width=360&height=360",
+      "imageUrl": "http://gips3.baidu.com/it/u=3886271102,3123389489&fm=3028&app=3028&f=JPEG&fmt=auto?w=1280&h=960",
       "spanSize": 2
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "goodsId": 6,
-      "imageUrl": "https://i8.mifile.cn/v1/a1/f093e0a8-e3d8-4fc8-deb7-af25ea3d8663.webp?width=360&height=360",
+      "imageUrl": "http://gips1.baidu.com/it/u=3874647369,3220417986&fm=3028&app=3028&f=JPEG&fmt=auto?w=720&h=1280",
       "spanSize": 2
     },
     {
       "goodsId": 7,
-      "imageUrl": "https://i8.mifile.cn/v1/a1/b6c55f3b-d4ac-b2be-8d7c-3c818a79030a.webp?width=360&height=360",
+      "imageUrl": "http://gips0.baidu.com/it/u=3560029307,576412274&fm=3028&app=3028&f=JPEG&fmt=auto?w=960&h=1280",
       "spanSize": 2
     },
     {
